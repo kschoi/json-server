@@ -1,0 +1,24 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Dynamite",
+      "artist": "BTS"
+    },
+    {
+      "id": 2,
+      "title": "Butter",
+      "artist": "BTS"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "첫번째 댓글입니다.",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "chloe"
+  }
+}
